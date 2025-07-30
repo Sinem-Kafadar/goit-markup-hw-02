@@ -1,0 +1,98 @@
+:root {
+    --iris: #4D5AE5;
+    --ocean: #404BBF;
+    --navy-blue: #2E2F42;
+    --slate: #434455;
+    --white: #FFFFFF;
+    --font-h1: 56px;
+    --font-h2: 36px;
+    --font-h3: 20px;
+    --font-body: 16px;
+    --font-small: 12px;
+    --line-height-body: 1.5;
+    --line-height-h1:1.07;
+    --letter-spacing-body: 0.32px;
+    --letter-spacing-h1: 1.12px;
+}
+
+body {
+   font-family: 'Roboto', sans-serif;
+   font-weight: normal;
+   line-height: var(--line-height-body);
+   letter-spacing: var(--letter-spacing-body);
+}
+
+h1 {
+   font-size: var(--font-h1) ;
+   line-height: var(--line-height-h1);
+   letter-spacing: var(--letter-spacing-h1);
+   font-weight: bold;
+}
+
+
+
+
+
+
+
+.logo {
+    color: var(--iris);
+    font-family: 'Raleway', sans-serif;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.logo span { 
+    color: var(--navy-blue);
+}
+
+.menu ul li a, address ul li a {
+    color: var(--navy-blue);
+    text-decoration: none;
+}
+
+.menu ul li a:hover, address ul li a:hover {
+    color: var(--ocean);
+}
+
+
+
+.hero {
+    width: 1440px;
+    height  600px;
+    background-color: var(--navy-blue);
+}
+
+.hero .title {
+.order-button {
+    background-color: var(--iris);
+    color: var(--white);
+    cursor: pointer;
+    border: none;
+    width: 169px;
+    height: 56px;
+    padding: 16px 32px;
+    border-radius: 4px;
+}
+
+.order-button:hover {
+background-color: var(--ocean);
+}
+
+.logo span {
+    color: var(--navy-blue);
+}
+
+.order-button {
+    background-color: var(--iris);
+    color: var(--white);
+    cursor: pointer;
+}
+
+.order-button:hover {
+    background-color: var(--ocean);
+}
+
+h1 {
+    font-size: var(--font-h1);
+}
