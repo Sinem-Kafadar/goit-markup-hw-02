@@ -42,10 +42,10 @@ h2 {
 }
 
 .navbar:hover {
-    color:#404bbf;
+  color: #404bbf;
 }
 .address:hover {
-    color: #404bbf;
+  color: #404bbf;
 }
 .page-nav .link {
   color: #2e2f42;
@@ -121,10 +121,8 @@ h2 {
   letter-spacing: 0.02em;
 }
 
-
-
 .order-button {
-  color: #4D5AE5;
+  color: #4d5ae5;
   cursor: pointer;
 }
 
@@ -132,13 +130,10 @@ h2 {
   background-color: #404bbf;
 }
 
-.button-text{
-  color:#ffffff;
+.button-text {
+  color: #ffffff;
   line-height: 1.5;
-    font-size: 16px;
-    font-weight: 500;
-    letter-spacing: 0.04em;
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: 0.04em;
 }
-
-
-
