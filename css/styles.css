@@ -38,14 +38,15 @@ h2 {
 }
 
 .footer {
+  color:#ffffff;
   background-color: #2e2f42;
 }
 
 .navbar:hover {
-  color: #404bbf;
+  color: #2E2F42;
 }
 .address:hover {
-  color: #404bbf;
+  color: #434455;
 }
 .page-nav .link {
   color: #2e2f42;
@@ -78,7 +79,7 @@ h2 {
   background-color: #4d5ae5;
   cursor: pointer;
 }
-.button:hover {
+.order-button:hover {
   background-color: #404bbf;
 }
 .button-text {
@@ -122,7 +123,8 @@ h2 {
 }
 
 .order-button {
-  color: #4d5ae5;
+  background-color: #4d5ae5;
+  color:#ffffff;
   cursor: pointer;
 }
 
